@@ -15,6 +15,7 @@
 - 采用django框架，sqlite数据库，方便每个投资者自己维护自己的投资理念信息，或者进行魔改。此外，用sqlite会更快，mysql的话加载数据太慢了。
 - 参考网址：http://www.taodudu.cc/news/show-5852612.html?action=onClick
 - 启动命令 参考README_bak.md
+- 提交代码husky报错：删除./husky文件即可
 
 
 ## TODO
