@@ -10,14 +10,14 @@ DATABASE_PORT = 3306
 # 数据库用户名
 DATABASE_USER = "root"
 # 数据库密码
-DATABASE_PASSWORD = ""
+DATABASE_PASSWORD = "toor"
 # 数据库名
 DATABASE_NAME = "fuadmin"
 
 # ================================================= #
 # ************** redis配置，无redis 可不进行配置  ************** #
 # ================================================= #
-REDIS_PASSWORD = ''
+REDIS_PASSWORD = '123456'
 REDIS_HOST = '127.0.0.1'
 REDIS_URL = f'redis://:{REDIS_PASSWORD or ""}@{REDIS_HOST}:6379'
 # ================================================= #
