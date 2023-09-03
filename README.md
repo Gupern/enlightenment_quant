@@ -15,3 +15,9 @@
 - 采用django框架，sqlite数据库，方便每个投资者自己维护自己的投资理念信息，或者进行魔改。此外，用sqlite会更快，mysql的话加载数据太慢了。
 - 参考网址：http://www.taodudu.cc/news/show-5852612.html?action=onClick
 - 启动命令 参考README_bak.md
+
+
+## TODO
+- [ ] T-1复盘大屏
+- [ ] 回测功能（仿造backtrader，加载数据、策略、回测、可视化、仓位控制、手动调节）
+- [ ] 实时盯盘功能（付费数据 or 爬虫）
